@@ -1,6 +1,6 @@
 # Innovación en Docencia - Fenómenos de Transporte (FdT)
 
-Este repositorio documenta las innovaciones implementadas en el curso **Fenómenos de Transporte**, dictado por el profesor **Felipe Huerta** en la **Pontificia Universidad Católica de Chile**.
+Este repositorio documenta las innovaciones implementadas en el curso **Fenómenos de Transporte**, dictado por el profesor **Felipe Huerta** en la **Pontificia Universidad Católica de Chile**, en conjunto con la iniciativa estudiantil **Ingeniería para Chile (IPCh)**.
 
 ## Enfoque del curso
 
